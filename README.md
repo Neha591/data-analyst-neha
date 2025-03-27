@@ -132,6 +132,8 @@ The EDA process includes the following key steps:
 - Detect unusually high or low business activity
 - Spot inconsistencies in license renewals
 ## Data Visualization & Reporting:
+![Alt Text]
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/78577e45e6b202665ef3fb0788470eae7e858ffd/SmartSelect_20250326_215444_M365%20Copilot.jpg)
 - Use Amazon QuickSight & Matplotlib/Seaborn for visual analysis
 - Generate interactive dashboards and reports
 # Tools and Technologies:
