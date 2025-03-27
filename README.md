@@ -136,7 +136,7 @@ The EDA process includes the following key steps:
 - Detect unusually high or low business activity
 - Spot inconsistencies in license renewals
 ## Data Visualization & Reporting:
-![Alt Text]
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/SmartSelect_20250326_215457_M365%20Copilot.jpg)
 ![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/78577e45e6b202665ef3fb0788470eae7e858ffd/SmartSelect_20250326_215444_M365%20Copilot.jpg)
 - Use Amazon QuickSight & Matplotlib/Seaborn for visual analysis
 - Generate interactive dashboards and reports
@@ -172,6 +172,7 @@ This project follows a structured ETL (Extract, Transform, Load) pipeline using 
 - Upload HR datasets to AWS S3 storage.
 - Use EC2 instances for data ingestion and initial validation.
 ## Data Profiling & Cleaning:
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(1).png)
 - Identify missing values, duplicates, and inconsistent formats.
 - Standardize data (e.g., date formats, salary structures, skill categories).
 - Data Transformation & Cataloging:
@@ -187,6 +188,7 @@ This project follows a structured ETL (Extract, Transform, Load) pipeline using 
 - AWS S3 – Data Storage
 - AWS EC2 – Data Processing
 - AWS Glue – Data Cleaning & Transformation
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(251).png)
 - Amazon Athena – SQL-based Querying & Reporting
 - AWS KMS – Data Encryption & Security
 - AWS CloudWatch & CloudTrail – Monitoring & Governance
@@ -206,6 +208,7 @@ Phase Task Duration
 - Week 7-8 Testing & Final Deployment
 
 # 2. Project Description: Data Quality Control for UCW HR Data
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(46).png)
 # Project Title:
 "Ensuring Data Quality Control for UCW HR Data Using AWS Cloud Services"
 # Objective:
@@ -263,6 +266,9 @@ The project follows a structured approach to descriptive analysis:
 ## Data Collection & Cleaning:
 - Ingesting HR datasets from AWS S3 and performing data cleaning (removing duplicates, handling missing values).
 ## Data Exploration & Summarization:
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(239).png)
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(248).png)
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(250).png)
 - Using AWS Athena to perform SQL queries for summary statistics (mean, median, mode, variance).
 - Identifying workforce trends (age distribution, department-wise employee count, salary variations).
 ## Data Visualization:
@@ -274,7 +280,11 @@ The project follows a structured approach to descriptive analysis:
 # Tools and Technologies:
 - AWS S3 – Data Storage
 - AWS Glue – Data Cleaning & Transformation
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(247).png)
 - Amazon Athena – SQL-based Querying & Analysis
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(270).png)
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(271).png)
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/2149d86c73d9a6f09a79cc59ba92ba2209d65144/Screenshot%20(272).png)
 - Amazon QuickSight – Data Visualization & Reporting
 - AWS CloudWatch – Monitoring and Performance Tracking
 # Deliverables:
