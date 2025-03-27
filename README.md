@@ -1,5 +1,7 @@
-# data-analyst-neha
+
+\# data-analyst-neha
 # Project 1 City of Vancouver
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/7af23d00bb248cde145fd9236b7acbafac6f2b13/SmartSelect_20250326_215722_M365%20Copilot.jpg)
 ![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/95018256124f82ca1c24d5179bffe13bee67308b/COV_Neha.drawio.png)
 ![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/ce0bb602d537c1788e9a5401938af750d1222416/SmartSelect_20250325_022942_Chrome.jpg)
 # 1. Project Title:Data Wrangling for Business Licenses of Animal Services – City of Vancouver
@@ -24,6 +26,7 @@ The dataset includes:
 # Methodology:
 The data wrangling process involves several key steps:
 - Data Ingestion – Raw dataset is uploaded to AWS S3 for cloud processing
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/7af23d00bb248cde145fd9236b7acbafac6f2b13/SmartSelect_20250326_215702_M365%20Copilot.jpg)
 - Data Profiling – Using AWS Glue DataBrew to assess schema, missing values, and anomalies
 - Data Cleaning – Handling missing data, removing duplicates, and standardizing formats
 - Data Transformation – Converting semi-structured to relational format using AWS Glue
@@ -72,6 +75,7 @@ The data quality control process follows these steps:
 - Upload raw dataset to AWS S3
 - Use AWS Glue DataBrew for schema validation and error detection
 # Data Cleaning & Validation:
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/7af23d00bb248cde145fd9236b7acbafac6f2b13/SmartSelect_20250326_215650_M365%20Copilot.jpg)
 - Remove duplicate business license entries
 - Standardize formats (license numbers, business names, addresses)
 - Handle missing values through imputation or deletion
