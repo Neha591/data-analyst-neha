@@ -293,5 +293,7 @@ The project follows a structured approach to descriptive analysis:
 - Summary statistics on employee demographics, salaries, and skills.
 - Data visualization dashboards in Amazon QuickSight.
 - HR insights report for workforce planning.
-# Course Completion Badge
+# Course Completion Badge & Certificate
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/5208e205609d93f25d5f273fc101054752f0a1df/IMG-20240628-WA0009.jpg)
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/5208e205609d93f25d5f273fc101054752f0a1df/IMG-20250325-WA0004.jpg)
 
