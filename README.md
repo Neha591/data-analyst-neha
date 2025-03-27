@@ -154,6 +154,7 @@ The EDA process includes the following key steps:
 - Recommendations based on observed patterns
 
 # Project 2 University Canada West Policies (HR Department)
+https://github.com/Neha591/data-analyst-neha/blob/fd754b58e4b63a6165fcc84a42581dafe70de403/Screenshot%20(254).png)
 # 1. Project Description: UCW Company – HR Data Wrangling
 # Project Title:
 "HR Data Wrangling and Quality Control for UCW Company Using AWS Cloud Services"
