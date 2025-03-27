@@ -1,5 +1,5 @@
 
-\# data-analyst-neha
+# data-analyst-neha
 # Project 1 City of Vancouver
 ![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/7af23d00bb248cde145fd9236b7acbafac6f2b13/SmartSelect_20250326_215722_M365%20Copilot.jpg)
 ![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/95018256124f82ca1c24d5179bffe13bee67308b/COV_Neha.drawio.png)
