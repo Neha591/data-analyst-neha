@@ -293,3 +293,5 @@ The project follows a structured approach to descriptive analysis:
 - Summary statistics on employee demographics, salaries, and skills.
 - Data visualization dashboards in Amazon QuickSight.
 - HR insights report for workforce planning.
+# Course Completion Badge
+
