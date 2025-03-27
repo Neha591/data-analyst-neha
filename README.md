@@ -1,6 +1,6 @@
 # data-analyst-neha
 # Project 1 City of Vancouver
-![Alt Text](image-name.png)
+![Alt Text](https://github.com/Neha591/data-analyst-neha/blob/95018256124f82ca1c24d5179bffe13bee67308b/COV_Neha.drawio.png)
 # 1. Project Title:Data Wrangling for Business Licenses of Animal Services – City of Vancouver
 # Objective:
 The primary goal of this project is to clean, structure, and analyze business license data for animal services in Vancouver, ensuring high-quality data for insights and regulatory compliance. Specifically, we aim to:
